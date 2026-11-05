@@ -108,5 +108,5 @@ This project demonstrates the use of Microsoft Excel for business intelligence a
 
 
 
-!\[Amazon Dashboard](Screenshots/Amazon\_Dashboard.png)
+!\[Amazon Dashboard](Screenshot/Amazon\_Dashboard.png)
 
