@@ -100,13 +100,11 @@ The analysis highlights strong sales performance and profitability. The dashboar
 
 This project demonstrates the use of Microsoft Excel for business intelligence and data analysis. It transforms raw sales data into meaningful insights through KPIs, pivot tables, charts, and an interactive dashboard.
 
+## Dashboard Preview
+
+![Amazon India Sales Dashboard](./Amazon_Dashboard.png)
 
 
 
 
-\## Project Dashboard Preview
-
-
-
-(Amazon_Dashboard.png)
 
