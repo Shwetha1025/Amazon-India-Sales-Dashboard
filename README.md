@@ -1,20 +1,18 @@
-# Amazon-India-Sales-Dashboard
+# **Amazon-India-Sales-Dashboard**
 
 Amazon India Sales Analysis and Interactive Dashboard using Microsoft Excel.
 
-Amazon India Sales Analysis Dashboard
+&#x20;
 
-
-
-Project Overview
+#### **Project Overview**
 
 
 
 This project presents an interactive sales analysis dashboard for Amazon India, developed using Microsoft Excel. It provides insights into sales performance, profitability, product categories, customer orders, payment methods, fulfilment methods, and geographical performance.
 
+#### 
 
-
-Objectives
+#### **Objectives**
 
 
 
@@ -32,7 +30,7 @@ Objectives
 
 
 
-Tools and Technologies
+#### **Tools and Technologies**
 
 
 
@@ -50,7 +48,7 @@ Tools and Technologies
 
 
 
-Key Performance Indicators (KPIs)
+#### **Key Performance Indicators (KPIs)**
 
 
 
@@ -72,7 +70,7 @@ Key Performance Indicators (KPIs)
 
 
 
-Key Findings
+#### **Key Findings**
 
 
 
@@ -88,7 +86,7 @@ Key Findings
 
 
 
-Business Insights
+#### **Business Insights**
 
 
 
@@ -96,7 +94,7 @@ The analysis highlights strong sales performance and profitability. The dashboar
 
 
 
-Conclusion
+#### **Conclusion**
 
 
 
@@ -106,5 +104,9 @@ This project demonstrates the use of Microsoft Excel for business intelligence a
 
 
 
+\## Project Dashboard Preview
 
+
+
+!\[Amazon Dashboard](Screenshots/Amazon\_Dashboard.png)
 
